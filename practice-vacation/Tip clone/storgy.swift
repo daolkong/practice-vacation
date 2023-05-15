@@ -16,7 +16,7 @@ struct Album {
     let tracks = [
         Track(title: "사용자 정보 보호하기"),
         Track(title: "대비하기"),
-        Track(title: "필수 항목 설정하기"),
+        Track(title: "필수 세부 항목 설정하기"),
         Track(title: "iphone 개인 맞춤화 하기")
 
     ]
